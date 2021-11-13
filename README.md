@@ -34,7 +34,7 @@
 
 ---
 
-[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavMV)](https://github.com/AbhinavMV/github-readme-stats)
+[![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbhinavMV&show_icons=true&theme=radical)](https://github.com/AbhinavMV/github-readme-stats)
 
 [website]: https://abhinav-portfolio.vercel.app/
 [twitter]: https://twitter.com/abhinav_mv5
