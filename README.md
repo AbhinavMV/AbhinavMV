@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Abhinav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Abhinav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img alt='Twitter' src="https://img.icons8.com/color/48/000000/twitter.png"/>][twitter]
+[<img alt='LinkedIn' src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>][linkedin]
 
 <br />
 
