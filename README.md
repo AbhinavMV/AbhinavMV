@@ -68,7 +68,7 @@
     Connect with me ✌
     
   </h3>
-  <a href="https://twitter.com/abhinav_mv5" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/twitter.png"/></a>
+  <a href="https://twitter.com/abhinav_m_v" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/twitter.png"/></a>
   <a href="https://www.linkedin.com/in/abhinav-mv-b216b8160/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/48/linkedin.png"/></a>
   
  <!-- icons from https://icons8.com/ -->
