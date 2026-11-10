@@ -16,19 +16,21 @@ I build backend services and real-time data pipelines that power blockchain data
 
 ### What I work on
 
-- **DEX indexing**: designed and built a Solana DEX indexer covering Orca, Raydium, Meteora and PumpSwap
+- **DEX indexing**: designed a Solana swap-parsing framework with decoders for 9 pool types across Orca, Raydium and Meteora; onboarded 6 EVM chains and 12+ DEX protocols
 - **High-throughput APIs**: TypeScript and NestJS services backed by ClickHouse, PostgreSQL and Elasticsearch
 - **Performance**: query optimisation, memory profiling and latency tuning, with Rust where it counts
-- **AI-assisted engineering**: Claude Code as part of my daily workflow for design, review and debugging
+- **Safe migrations**: shadow traffic and response diffing before every cutover, across 7 EVM chains
+- **AI-assisted engineering**: Claude Code daily for design, review and debugging; built a latency-regression agent with the Claude Agent SDK
 
 ### Recent wins
 
 | Impact | What changed |
 | --- | --- |
+| **29 → 4.7 GB** | Rust data-processing service memory (−84%), by switching to jemalloc |
+| **~230x** | Faster p99 on a ClickHouse price lookup, with zero timeouts and half the memory |
+| **3.8x** | Faster Solana block decoding, with byte-identical output |
 | **7–8s → 2.5s** | Large-wallet Solana API latency, by parallelising metadata lookups |
-| **87 → 4** | ClickHouse queries consolidated, over hundreds of millions of rows |
-| **3–6x** | Faster reads after benchmarking Elasticsearch vs ClickHouse for token filtering |
-| **−19%** | Peak memory in a Rust data-correction service, with identical output |
+| **47%** | Of missed Raydium AMM v4 swaps recovered (~236k records a day) |
 
 ### Side projects
 
