@@ -23,7 +23,7 @@ I build backend services and real-time data pipelines that power blockchain data
 
 ### Recent wins
 
-| | |
+| Impact | What changed |
 | --- | --- |
 | **7–8s → 2.5s** | Large-wallet Solana API latency, by parallelising metadata lookups |
 | **87 → 4** | ClickHouse queries consolidated, over hundreds of millions of rows |
